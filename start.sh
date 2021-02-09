@@ -6,12 +6,12 @@
 
 # Please don't use http in host as it is already included.
 # 0.0.0.0 means serve all network interfaces
-HOST="0.0.0.0"
+HOST=0.0.0.0
 
 PORT=5000
 
-# Please specify http as peer connection protocol 
-PEERS="localhost:5000" 
+# Please specify http as peer connection protocol
+PEERS="localhost:5000"
 
 # MINER_ADDRESS should be unique per node
 MINER_ADDRESS="ppdpp-dvfgf-fredgdsdf-gdsfgsd-35vr433-ee2eass4d"
